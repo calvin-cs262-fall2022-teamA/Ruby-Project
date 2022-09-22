@@ -3,6 +3,7 @@
 - Be A Ruby local charity
 - distribute food and clothing to low income communities
 ## Why
+- Basic website and no trailer inventory tracking -> increase organization
 - track trailer inventory like cups, to go boxes, and silverware
 - connect with volunteers to share event information and donation needs
 
