@@ -9,7 +9,7 @@ Until now, the founders of Be A Ruby have been unable to find an app with an eas
 - [Data Service](https://github.com/calvin-cs262-fall2022-teamA/Ruby-Service)
 
 ## Models
-- [Domain Model](https://github.com/calvin-cs262-fall2022-teamA/Ruby-Project/blob/main/Documents/Domain_Model.PNG)
+- [Domain Model](https://github.com/calvin-cs262-fall2022-teamA/Ruby-Project/blob/main/Documents/Domain_Model.jpg)
 - [UI Model](https://github.com/calvin-cs262-fall2022-teamA/Ruby-Project/tree/main/Documents/UI_Model.pdf)
 
 ## Team Members
